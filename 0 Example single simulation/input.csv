@@ -1,0 +1,2 @@
+﻿seed,length_limit,time_limit,max_pols,k0,k,kact,ConcEff,Gact,Gbb,Conc0,Conc1,G0,G1,Ggen,Gend,outputfilename,outputtrajfilename,print_flag,print_valid_trans_flag,write_output_flag,write_traj_flag,traj_write_interval,breakable_backbone_flag,off_rate_discrim_flag,t_activation_flag,local_updates_flag,use_test_rates_flag
+1,10,1000,20,1,1,0,100,0,-4,10,10,-4,-2,-2,2,output.csv,traj.csv,1,0,1,1,100,1,1,0,1,0

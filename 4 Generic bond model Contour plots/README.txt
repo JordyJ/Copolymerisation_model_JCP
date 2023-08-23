@@ -1,0 +1,2 @@
+Each folder contains the input files and averaged data in pkl format for each contour plot generated.
+ConformationSims contain the input files for running the sims from which the conformations were extracted.
